@@ -33,6 +33,7 @@ Climate change is one of the most pressing global issues of our time. This list 
 - **[NASA Climate Science](https://climate.nasa.gov/)** – Overview of climate science missions, models, and findings.
 - **[Our World in Data: CO₂ and Climate Change](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions)** – Data visualizations and research on emissions and energy.
 - **[Global Carbon Atlas](http://www.globalcarbonatlas.org/)** – Research and data on carbon fluxes and emissions.
+- - **[Climate Insights Directory](https://climateinsightsdirectory.org/)** – Searchable index of reports, policy briefs, and analyses openly published by civil society organizations worldwide, filterable by climate topic, organization, and country.
 
 ## Educational Resources
 
